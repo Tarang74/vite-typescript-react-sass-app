@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+    color: rgb(218, 218, 218);
+    margin: 6rem 0;
+    padding: 5rem;
+
+    font-weight: 600;
+    font-size: 6rem;
+
+    border-radius: 1rem;
+    border-width: 0.5rem;
+    border-color: azure;
+}
