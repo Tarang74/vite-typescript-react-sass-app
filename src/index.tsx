@@ -15,8 +15,6 @@ let p = new Promise((resolve) => {
     resolve(true);
 });
 
-function main() {
-
-}
+function main() {}
 
 p.then(main);

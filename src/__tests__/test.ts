@@ -1,3 +1,5 @@
-test('Name of test', () => {
-    expect(true).toBeTruthy();
+import TestFunction from '@testing/TestFunction';
+
+test('Example test.', () => {
+    expect(TestFunction()).toBeTruthy();
 });
