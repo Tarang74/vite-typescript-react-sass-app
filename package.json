@@ -15,8 +15,6 @@
     "author": "Tarang Janawalkar",
     "license": "MIT",
     "devDependencies": {
-        "@commitlint/cli": "^16.1.0",
-        "@commitlint/config-conventional": "^16.0.0",
         "@jest/types": "^27.5.1",
         "@types/jest": "^27.4.0",
         "@types/node": "17",
