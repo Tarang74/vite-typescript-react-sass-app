@@ -48,4 +48,3 @@ To test the production build
 ```bash
 npm run serve
 ```
-
